@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=marcosferreirarj&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F109549309%3Fu%3D1d31e8d4e974cecd8870792b854e231d6753b5d6%26v%3D4" alt="marcosferreirarj hero visual" />
 </p>
 
-**Marcos Vinicios Ferreira** · Frontend or full-stack engineer
+**Marcos Vinicios Ferreira** · Full-stack engineer
 
 ## Why I maintain
 
